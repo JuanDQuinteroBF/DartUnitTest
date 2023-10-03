@@ -1,0 +1,1 @@
+{"type":"CodeCoverage","coverage":[{"source":"package:my_project_name/calculator.dart","script":{"type":"@Script","fixedId":true,"id":"libraries/1/scripts/package%3Amy_project_name%2Fcalculator.dart","uri":"package:my_project_name/calculator.dart","_kind":"library"},"hits":[4,3,6,3]}]}

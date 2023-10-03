@@ -1,6 +1,6 @@
-// test/my_test.dart
 import 'package:test/test.dart';
-import 'package:my_project_name/calculator.dart'; // Asegúrate de importar tu código fuente
+import 'package:my_project_name/calculator.dart';
+
 void main() {
   group('Counter', () {
     test('value should start at 0', () {
